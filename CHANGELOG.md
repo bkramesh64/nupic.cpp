@@ -4,8 +4,9 @@
 
 * Comunity release
 *  4a9c8a2..0c4a30a
-* added CI for Win, OSX, Linux
+* added CI for Win(MSVC), OSX, Linux
 * testing binary releases
+* Added SDR container for encapsulating Sparse Data.
 
 ## 1.0.6
 
